@@ -1,0 +1,16 @@
+title:        GameCataloguer.ZenodotusCoder.com
+name:         GameCataloguer.ZenodotusCoder.com
+description:  GameCataloguer.ZenodotusCoder.com
+author:       Zenodotus Coder
+author_email: zenodotuscoder@gmail.com
+email:        zenodotuscoder@gmail.com
+url:          "https://gamecataloguer.zenodotuscoder.com/"
+includes_dir: .
+layouts_dir:  gamecataloguer.zenodotuscoder.com/layouts
+exclude:      [
+               CNAME,
+               LICENSE,
+               README.md,
+               gamecataloguer.zenodotuscoder.com/layouts/*,
+               gamecataloguer.zenodotuscoder.com/README.md
+              ]
